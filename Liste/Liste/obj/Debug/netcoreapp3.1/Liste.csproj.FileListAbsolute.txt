@@ -1,0 +1,13 @@
+E:\4^F\Liste\Liste\bin\Debug\netcoreapp3.1\Liste.exe
+E:\4^F\Liste\Liste\bin\Debug\netcoreapp3.1\Liste.deps.json
+E:\4^F\Liste\Liste\bin\Debug\netcoreapp3.1\Liste.runtimeconfig.json
+E:\4^F\Liste\Liste\bin\Debug\netcoreapp3.1\Liste.runtimeconfig.dev.json
+E:\4^F\Liste\Liste\bin\Debug\netcoreapp3.1\Liste.dll
+E:\4^F\Liste\Liste\bin\Debug\netcoreapp3.1\Liste.pdb
+E:\4^F\Liste\Liste\obj\Debug\netcoreapp3.1\Liste.csproj.AssemblyReference.cache
+E:\4^F\Liste\Liste\obj\Debug\netcoreapp3.1\Liste.AssemblyInfoInputs.cache
+E:\4^F\Liste\Liste\obj\Debug\netcoreapp3.1\Liste.AssemblyInfo.cs
+E:\4^F\Liste\Liste\obj\Debug\netcoreapp3.1\Liste.csproj.CoreCompileInputs.cache
+E:\4^F\Liste\Liste\obj\Debug\netcoreapp3.1\Liste.dll
+E:\4^F\Liste\Liste\obj\Debug\netcoreapp3.1\Liste.pdb
+E:\4^F\Liste\Liste\obj\Debug\netcoreapp3.1\Liste.genruntimeconfig.cache
